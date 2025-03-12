@@ -1,0 +1,10 @@
+# ignore any file has this extension
+*.log
+# except this file >> it will be display on the git status.
+!vip.log
+
+#you write specific name of file to ignore it.
+bad.txt
+
+# you can ignore a directory. 
+node_packs/
